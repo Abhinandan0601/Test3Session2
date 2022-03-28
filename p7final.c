@@ -1,7 +1,7 @@
 #include<stdio.h>
 typedef struct _fraction
 {
-  int num,den;1
+  int num,den;
 }Fraction;
 int gcd(int a,int b)
 {
